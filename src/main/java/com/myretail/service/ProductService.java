@@ -32,11 +32,11 @@ public class ProductService
     }
 
     //saving a specific record by using the method save() of CrudRepository
-    public ProductDAO saveOrUpdate(ProductDAO productD)
+    public ProductDAO saveOrUpdate(ProductDAO productDAO)
     {
-        Product product = productDToProduct(productD);
+        Product product = productDToProduct(productDAO);
         productRepository.save(product);
-        return productD;
+        return productDAO;
     }
 
     //deleting a specific record by using the method deleteById() of CrudRepository

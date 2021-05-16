@@ -8,7 +8,7 @@ import javax.persistence.*;
 //defining class name as Table name
 //@Table
 public class Product {
-    //Defining book id as primary key
+    //Defining product id as primary key
     @Id
     private int productId;
 
