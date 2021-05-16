@@ -10,7 +10,7 @@ Spring Boot
 JMeter 5.4.1  
 Postman  
 
-Requests need to be sent to port 8083. 
+Requests need to be sent to port http://localhost:8083. 
 
 
 
