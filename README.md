@@ -5,7 +5,11 @@ The goal is to create a RESTful service that can retrieve product and price deta
 
 Tech Stack Used: 
 
-JDK 11
-Spring Boot
-JTimer 
-Postman 
+JDK 11  
+Spring Boot  
+JTimer  
+Postman  
+
+
+
+
