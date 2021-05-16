@@ -7,7 +7,7 @@ Tech Stack Used:
 
 JDK 11  
 Spring Boot  
-JTimer  
+JTimer 5.4.1
 Postman  
 
 
